@@ -1,2 +1,2 @@
 # Codeceptjs-example
-Example of using codeceptjs for acceptance testing
+Example of using codeceptjs for test automation
